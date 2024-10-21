@@ -1,0 +1,17 @@
+
+{ 
+	"friends" : [
+		
+		"person-1" :{
+			"name" : "Ali" ,
+			"Age" : 25
+		} ,
+		
+		"person-2":{
+			"name" : "Kamal" ,
+			"Age" : 34
+		}
+	
+	]
+	
+}

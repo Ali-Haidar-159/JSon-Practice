@@ -1,0 +1,54 @@
+{
+	"bangladesh-universities" : [
+	
+		{
+			"name" : "East West University" ,
+			"address" : "Badda,Dhaka" ,
+			"established" : 1998 ,
+			"departments" : ["cse" , "eee" , "ce" , "te" , "english"] ,
+			"cse-faculties" : [
+				
+				{
+					"name" : "Anisur Rahman" ,
+					"middleName" : null ,
+					"isRegistered" : true ,
+					"salary" :50000
+				} , 
+				{
+					"name" : "taskid Jabid" ,
+					"middleName" : "islam" ,
+					"isRegistered" : false ,
+					"salary" : 50000 
+				}
+				
+			] ,
+			"contact" : [2 , 3]	
+		} ,
+		
+		{
+			"name" : "Brac University" ,
+			"address" : "Badda,Dhaka" ,
+			"established" : 1990,
+			"departments" : ["cse" , "eee" , "ce" , "english"] ,
+			"cse-faculties" : [
+				
+				{
+					"name" : "Kamal Uddin" ,
+					"middleName" : null ,
+					"isRegistered" : false ,
+					"salary" :50000
+				} , 
+				{
+					"name" : "Abdur Rahman" ,
+					"middleName" : null ,
+					"isRegistered" : true ,
+					"salary" : 50000 
+				}
+				
+			] ,
+			"contact" : [3 , 5]	
+		}
+	
+	]
+	
+}

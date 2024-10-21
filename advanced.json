@@ -1,0 +1,53 @@
+
+{
+	"Profession" : [
+	
+		{
+		
+		"name" : "Ali Haidar" ,
+		"middleName" : null ,
+		"age" : 20 ,
+		"GPA" : 5.00 ,
+		"isRegistered" : true ,
+		"languages" : ["Bangla" , "English" , "Hindi"] ,
+		"friends" : [
+			
+			{
+				"name" : "Anar" ,
+				"age" : 21
+			} ,
+			
+			{
+				"name" : "Kamal" ,
+				"age" : 23
+			}
+			
+		]
+		
+	} ,
+	
+	{
+		
+		"name" : "Fahmida" ,
+		"age" :15 ,
+		"GPA" : 5.00 ,
+		"isRegistered" : true ,
+		"languages" : ["Bangla" , "English"] ,
+		"friends" : [
+			
+			{
+				"name" : "Sayema" ,
+				"age" :  16 
+			},
+			{
+				"name" : "Risa" ,
+				"age" :  17
+			}
+		]
+		
+	}
+	
+	]
+	
+}
+	
