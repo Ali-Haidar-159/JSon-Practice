@@ -1,0 +1,44 @@
+ //  JSon file
+
+{
+  "name" : "ali" ,
+  "age" : 20 ,
+  "gpa" : 3.55 ,
+  "course" : [103,106]
+}
+
+
+//JSon schema 
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "gpa": {
+      "type": "number"
+    },
+    "course": {
+      "type": "array",
+      "items": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "integer"
+        }
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "age",
+    "gpa",
+    "course"
+  ]
+}

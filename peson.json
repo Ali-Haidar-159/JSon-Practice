@@ -1,0 +1,68 @@
+
+{
+	
+	"details" : [
+		{
+		
+			"name" : "Ali Haidar" ,
+			"age" : 20 ,
+			"gender" : "male" ,
+			"nid" : "125745321502" ,
+			"course" : [103,106,110,246,405] ,
+			"gpa" : 4.80 ,
+			"isRegistered" : true ,
+			"job" : null ,
+			"device" : {
+				"name" : "mobile" ,
+				"price" : 15000 
+			} ,
+			"parents" : [
+				
+				{
+					"name" : "Nilufa Islam" ,
+					"relation" : "mother"
+				} ,
+				
+				{
+					"name" : "Nurul Islam" ,
+					"relation" : "father"
+				}
+			
+			]
+			
+		} ,
+		
+		{
+		
+			"name" : "Kamal Uddin" ,
+			"age" : 22 ,
+			"gender" : "male" ,
+			"nid" : "125745451502" ,
+			"course" : [103,106,110,246,405] ,
+			"gpa" : 4.80 ,
+			"isRegistered" : false ,
+			"device" : {
+				"name" : "laptop" ,
+				"price" : 150000 
+			} ,
+			"parents" : [
+				
+				{
+					"name" : "Suraiya Khatun" ,
+					"relation" : "mother"
+				} ,
+				
+				{
+					"name" : "Abdur Rahman" ,
+					"relation" : "father"
+				}
+			
+			]
+			
+		} 
+	
+	
+	]
+		
+	
+}
